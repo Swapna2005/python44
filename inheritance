@@ -1,0 +1,35 @@
+# inhertance syntax
+
+# class BaseClass:
+#      Body of base class
+# class DerivedClass(BaseClass):
+#      Body of derived class
+
+# parent class
+
+# class Person:
+#   def __init__(self, fname, lname):
+#     self.firstname = fname
+#     self.lastname = lname
+
+#   def printname(self):
+#     print(self.firstname, self.lastname)
+
+# x = Person("swapna", "santhosh")
+# x.printname() 
+
+# child class
+
+# class Person:
+#   def __init__(self, fname, lname):
+#     self.firstname = fname
+#     self.lastname = lname
+
+#   def printname(self):
+#     print(self.firstname, self.lastname)
+
+# class Student(Person):
+#   pass
+
+# x = Student("Mike", "Olsen")
+# x.printname() 
