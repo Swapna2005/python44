@@ -1,0 +1,10 @@
+# f=open("hello.txt","r")
+# print(f.read())
+# print(f.read(2))
+# print(f.readline())
+# print(f.readlines())
+# print(f.readline(3))
+# f.close()
+
+# f=open("C:/Users/swapn/OneDrive/Dokumen/samplee.py","r")
+# print(f.read())
